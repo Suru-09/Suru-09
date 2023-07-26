@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dragoș</h1>
-- 🔭 I’m currently working on **rust-lox**
+- 🔭 I’m currently working on rust-lox
 
 - 🌱 I’m currently learning **Rust and functional programming paradigms**
 
