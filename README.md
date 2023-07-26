@@ -7,7 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Suru-09](https://github.com/Suru-09)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
